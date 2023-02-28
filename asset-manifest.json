@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Weather_app/static/css/main.b64df03f.css",
-    "main.js": "/Weather_app/static/js/main.e8f4c6f1.js",
+    "main.css": "/Weather_app/static/css/main.36224cd5.css",
+    "main.js": "/Weather_app/static/js/main.968a1c4e.js",
     "static/media/rain_4.jpg": "/Weather_app/static/media/rain_4.62f1760cd13bde195783.jpg",
     "static/media/sunny_1.jpg": "/Weather_app/static/media/sunny_1.7a2276dce911b850dd59.jpg",
     "static/media/rain_2.jpg": "/Weather_app/static/media/rain_2.d4d9761fc9e88ba78c42.jpg",
@@ -37,11 +37,11 @@
     "static/media/Montserrat-Medium.woff2": "/Weather_app/static/media/Montserrat-Medium.d6bbb7c3c86aa8edcd0a.woff2",
     "static/media/Montserrat-SemiBold.woff2": "/Weather_app/static/media/Montserrat-SemiBold.1d679c8257a6a9caa9bd.woff2",
     "index.html": "/Weather_app/index.html",
-    "main.b64df03f.css.map": "/Weather_app/static/css/main.b64df03f.css.map",
-    "main.e8f4c6f1.js.map": "/Weather_app/static/js/main.e8f4c6f1.js.map"
+    "main.36224cd5.css.map": "/Weather_app/static/css/main.36224cd5.css.map",
+    "main.968a1c4e.js.map": "/Weather_app/static/js/main.968a1c4e.js.map"
   },
   "entrypoints": [
-    "static/css/main.b64df03f.css",
-    "static/js/main.e8f4c6f1.js"
+    "static/css/main.36224cd5.css",
+    "static/js/main.968a1c4e.js"
   ]
 }
